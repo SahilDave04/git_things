@@ -1,1 +1,2 @@
-This is SAMPLE TEXT
+This is SAMPLE TEXT 2
+This is me currently working on some_things.txt
